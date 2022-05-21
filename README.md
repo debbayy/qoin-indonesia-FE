@@ -19,17 +19,16 @@
 
 ### Dashboard
 
-<img src="https://github.com/samsul-rijal/qoin-web-admin/blob/master/src/assets/screenshoot/dashboard.png" style="text-align : center;" > </img>
+<img src="https://github.com/debbayy/qoin-indonesia-FE/blob/master/assets/dasboard%20admin.png" style="text-align : center;" > </img>
 
 ### Genres
 
-<img src="https://github.com/samsul-rijal/qoin-web-admin/blob/master/src/assets/screenshoot/genre.png" style="text-align : center;" > </img>
+<img src="https://github.com/debbayy/qoin-indonesia-FE/blob/master/assets/gendre%20movie.png" style="text-align : center;" > </img>
 
 ### Movies
 
-<img src="https://github.com/samsul-rijal/qoin-web-admin/blob/master/src/assets/screenshoot/movies.png" style="text-align : center;" > </img>
-<img src="https://github.com/samsul-rijal/qoin-web-admin/blob/master/src/assets/screenshoot/movies2.png" style="text-align : center;" > </img>
+<img src="https://github.com/debbayy/qoin-indonesia-FE/blob/master/assets/List%20movie.png" style="text-align : center;" > </img>
 
 ### Detail Movie
 
-<img src="https://github.com/samsul-rijal/qoin-web-admin/blob/master/src/assets/screenshoot/detail.png" style="text-align : center;" > </img>
+<img src="https://github.com/debbayy/qoin-indonesia-FE/blob/master/assets/detail%20movie.png" style="text-align : center;" > </img>
